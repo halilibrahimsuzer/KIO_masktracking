@@ -1,0 +1,13 @@
+/Users/his/Projects/KodlamaIO/MaskeTakip/Business/bin/Debug/netstandard2.1/Business.deps.json
+/Users/his/Projects/KodlamaIO/MaskeTakip/Business/bin/Debug/netstandard2.1/Business.dll
+/Users/his/Projects/KodlamaIO/MaskeTakip/Business/bin/Debug/netstandard2.1/Business.pdb
+/Users/his/Projects/KodlamaIO/MaskeTakip/Business/bin/Debug/netstandard2.1/Entities.dll
+/Users/his/Projects/KodlamaIO/MaskeTakip/Business/bin/Debug/netstandard2.1/Entities.pdb
+/Users/his/Projects/KodlamaIO/MaskeTakip/Business/obj/Debug/netstandard2.1/Business.csproj.AssemblyReference.cache
+/Users/his/Projects/KodlamaIO/MaskeTakip/Business/obj/Debug/netstandard2.1/Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/his/Projects/KodlamaIO/MaskeTakip/Business/obj/Debug/netstandard2.1/Business.AssemblyInfoInputs.cache
+/Users/his/Projects/KodlamaIO/MaskeTakip/Business/obj/Debug/netstandard2.1/Business.AssemblyInfo.cs
+/Users/his/Projects/KodlamaIO/MaskeTakip/Business/obj/Debug/netstandard2.1/Business.csproj.CoreCompileInputs.cache
+/Users/his/Projects/KodlamaIO/MaskeTakip/Business/obj/Debug/netstandard2.1/Business.csproj.CopyComplete
+/Users/his/Projects/KodlamaIO/MaskeTakip/Business/obj/Debug/netstandard2.1/Business.dll
+/Users/his/Projects/KodlamaIO/MaskeTakip/Business/obj/Debug/netstandard2.1/Business.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G+8TFndvVALtdqadibiiTalxLsBjJ/0XQUMj/cv7tzsQZuMyppPDy+d0a2dtJKpADKSnv9DpnN1MyK63pXAXfg==",
+  "success": true,
+  "projectFilePath": "/Users/his/Projects/KodlamaIO/MaskeTakip/Workarround/Workarround.csproj",
+  "expectedPackageFiles": [
+    "/Users/his/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

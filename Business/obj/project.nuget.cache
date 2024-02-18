@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GIe5Z4bDXbYaRzuzF1btG2mPOZx/C3o+S3ijlvLtHPyJQqmeyo0W7Lg6eMzoizyRmp0PNQGniPyUAN6kKtsq6g==",
+  "success": true,
+  "projectFilePath": "/Users/his/Projects/KodlamaIO/MaskeTakip/Business/Business.csproj",
+  "expectedPackageFiles": [
+    "/Users/his/.nuget/packages/microsoft.extensions.apidescription.client/3.0.0/microsoft.extensions.apidescription.client.3.0.0.nupkg.sha512",
+    "/Users/his/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/his/.nuget/packages/nswag.apidescription.client/13.0.5/nswag.apidescription.client.13.0.5.nupkg.sha512",
+    "/Users/his/.nuget/packages/nswag.msbuild/13.0.5/nswag.msbuild.13.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
